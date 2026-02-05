@@ -1,0 +1,31 @@
+.vendor-card {
+  position: relative;
+  width: 800px;
+  align-items: center;
+ 
+  /* other styles */
+}
+
+.booking-button:hover {
+  background-color: #3e8e41;
+}
+
+
+.UserHome {
+  
+  align-items: center;
+}
+
+.booking-button {
+  background-color: #ddd99a;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 0;
+  cursor: pointer;
+  border-radius: 5px;
+}

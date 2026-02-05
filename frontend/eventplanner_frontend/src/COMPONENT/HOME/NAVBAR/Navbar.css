@@ -1,0 +1,15 @@
+nav {
+    background-color: rgb(177, 150, 0);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    color: rgb(145, 90, 19);
+    text-decoration: none;
+    padding: 10px;
+}

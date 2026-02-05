@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  header {
+    background-color: #999b7a;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  h1 {
+    margin-top: 0;
+  }
+  nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+  .login-btn {
+    background-color: #c4cca9;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1rem;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  .login-btn:hover {
+    background-color: #b2b692;
+    cursor: pointer;
+  }
+  main {
+    padding: 20px;
+  }
+  h2 {
+    color: #cdcec3;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .service-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .service-description {
+    line-height: 1.5;
+  }
+  .cta-button {
+    background-color: #aebe99;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    display: inline-block;
+  }
+  .cta-button:hover {
+    background-color: #9faf65;
+    cursor: pointer;  }

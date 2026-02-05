@@ -1,0 +1,11 @@
+ <Route path="/AdminHome" element={<AdminHome/>}/>    {/*ADMIN HOME  */}
+        <Route path="/AdminLog" element={<AdminServiceCurd/>}/>    {/*ADMIN SERVICE CURD OPERATION */}
+        <Route path="/AdminUserCurd" element={<AdminUserCurd/>}/>    {/*ADMIN USER CURD OPERATION */}
+        <Route path="/AdminVendorCurd" element={<AdminVendorCurd/>}/>    {/*ADMIN VENDOR CURD OPERATION*/}
+        
+        
+       
+        
+        {/*INSIDE VENDOR : FOLDER */}
+        <Route path="/VendorCreateAccount" element={<VendorCreateAccount/>}/>    {/*   VENDOR ACCOUNT */}
+        
